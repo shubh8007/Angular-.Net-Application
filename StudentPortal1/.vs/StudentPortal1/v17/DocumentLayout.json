@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practice\\StudentPortal1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\studentportal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\studentportal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\encryptionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\encryptionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010142_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904054953_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\studentportal1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\studentportal1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\dto\\feedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\dto\\feedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904020600_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904015708_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904013908_FeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903232746_ISPAid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903222550_AddFeesTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903221645_AddfeesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903051812_IntialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\migrations\\20240904055335_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\migrations\\20240904055335_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|c:\\practice\\studentportal1\\studentportal1\\migrations\\20240905010350_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F52428A-2EDA-481F-9C22-6DB3FF3C817A}|StudentPortal1\\StudentPortal1.csproj|solutionrelative:studentportal1\\migrations\\20240905010350_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Payment.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Payment.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Payment.cs",
+              "RelativeToolTip": "StudentPortal1\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:02:34.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Student.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Student.cs",
+              "RelativeToolTip": "StudentPortal1\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:22:23.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Data\\StudentDbContext.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentPortal1\\Data\\StudentDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:23:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentPortal1.csproj",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\StudentPortal1.csproj",
+              "RelativeDocumentMoniker": "StudentPortal1\\StudentPortal1.csproj",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\StudentPortal1.csproj",
+              "RelativeToolTip": "StudentPortal1\\StudentPortal1.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T01:00:56.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortal1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAhwJgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:38:06.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Program.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Program.cs",
+              "RelativeToolTip": "StudentPortal1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:35:11.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal1\\appsettings.json",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\appsettings.json",
+              "RelativeToolTip": "StudentPortal1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T05:37:58.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptionSettings.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\EncryptionSettings.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\EncryptionSettings.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\EncryptionSettings.cs",
+              "RelativeToolTip": "StudentPortal1\\EncryptionSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:54:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240905010142_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010142_IntialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010142_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010142_IntialCreate.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010142_IntialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:01:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240905010350_IntialCreate.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010350_IntialCreate.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Migrations\\20240905010350_IntialCreate.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Migrations\\20240905010350_IntialCreate.cs",
+              "RelativeToolTip": "StudentPortal1\\Migrations\\20240905010350_IntialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:03:51.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FeeDto.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\DTO\\FeeDto.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\DTO\\FeeDto.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\DTO\\FeeDto.cs",
+              "RelativeToolTip": "StudentPortal1\\DTO\\FeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:16:44.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "StudentPortal1\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:58:08.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240904015708_intial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904015708_intial.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904015708_intial.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904015708_intial.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904015708_intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:57:08.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240904055335_initial.cs",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\Migrations\\20240904055335_initial.cs",
+              "RelativeDocumentMoniker": "StudentPortal1\\Migrations\\20240904055335_initial.cs",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\Migrations\\20240904055335_initial.cs",
+              "RelativeToolTip": "StudentPortal1\\Migrations\\20240904055335_initial.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:53:35.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240904054953_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904054953_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904054953_initial.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904054953_initial.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904054953_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:49:54.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentPortal1.http",
+              "DocumentMoniker": "C:\\practice\\StudentPortal1\\StudentPortal1\\StudentPortal1.http",
+              "RelativeDocumentMoniker": "StudentPortal1\\StudentPortal1.http",
+              "ToolTip": "C:\\practice\\StudentPortal1\\StudentPortal1\\StudentPortal1.http",
+              "RelativeToolTip": "StudentPortal1\\StudentPortal1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-03T06:38:13.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240904020600_intial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904020600_intial.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904020600_intial.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904020600_intial.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904020600_intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:06:00.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240903232746_ISPAid.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903232746_ISPAid.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903232746_ISPAid.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903232746_ISPAid.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903232746_ISPAid.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:27:47.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240904013908_FeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904013908_FeeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904013908_FeeDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904013908_FeeDto.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240904013908_FeeDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:39:08.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240903221645_AddfeesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903221645_AddfeesTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903221645_AddfeesTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903221645_AddfeesTable.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903221645_AddfeesTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:16:45.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240903222550_AddFeesTables.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903222550_AddFeesTables.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903222550_AddFeesTables.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903222550_AddFeesTables.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903222550_AddFeesTables.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:25:51.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240903051812_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903051812_IntialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903051812_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903051812_IntialCreate.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\source\\repos\\StudentPortal1\\StudentPortal1\\Migrations\\20240903051812_IntialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:18:13.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
